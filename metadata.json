@@ -1,0 +1,6 @@
+{
+  "name": "PayPulse - OPay & PalmPay Fintech Wallet",
+  "description": "Secure mobile-first fintech wallet for sending and adding money instantly, real-time transaction notifications, security PIN authentication, and intelligent budget tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
